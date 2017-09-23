@@ -54,6 +54,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4650544F1F76A67E003DB963 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		522547CD1F4AE5A700226A2A /* NSView+Action.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSView+Action.h"; sourceTree = "<group>"; };
 		522547CE1F4AE5A700226A2A /* NSView+Action.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSView+Action.m"; sourceTree = "<group>"; };
 		522547D71F4C312A00226A2A /* TKAutoReplyWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TKAutoReplyWindowController.h; sourceTree = "<group>"; };
@@ -187,6 +188,7 @@
 		528B4F881EA7383800BC6A89 = {
 			isa = PBXGroup;
 			children = (
+				4650544F1F76A67E003DB963 /* README.md */,
 				528B4F941EA7383800BC6A89 /* WeChatPlugin */,
 				528B4F931EA7383800BC6A89 /* Products */,
 			);

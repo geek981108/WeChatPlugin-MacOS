@@ -135,7 +135,7 @@
 
 ---
 
-#### 听说你想请我喝下午茶？😏
+#### 听说你想请我喝shang午茶？😏
  
 <img src="http://upload-images.jianshu.io/upload_images/965383-8e2af8fe607eee62.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1024" height="300" hspace="7" style="display: inline-block">
 
