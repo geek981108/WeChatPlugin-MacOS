@@ -23,6 +23,7 @@
 
 - (void)windowDidLoad {
     [super windowDidLoad];
+    self.window.titlebarAppearsTransparent = true;
 
     [self setup];
     [self initSubviews];
