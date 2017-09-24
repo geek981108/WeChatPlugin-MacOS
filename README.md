@@ -2,26 +2,17 @@
 ## WeChatPlugin-MacOS
 
 ![](https://img.shields.io/badge/platform-osx-lightgrey.svg) ![](https://img.shields.io/badge/support-wechat%202.2.8-green.svg)
-   
-微信小助手 v1.0.0   
+
 
 ![微信小助手.png](http://upload-images.jianshu.io/upload_images/965383-0f65bb05dabf961b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-**iOS版本请戳→_→ [WeChatPlugin-iOS](https://github.com/TKkk-iOSer/WeChatPlugin-iOS)**
 
-~~主要实现 mac OS 版微信的<a>消息防撤回与自动回复</a>的功能，详细内容，请参考[我的博客](http://www.jianshu.com/p/7f65287a2e7a)~~
+主要实现 mac OS 版微信的<a>消息防撤回与自动回复</a>的功能
 
 ---
 
 ### 更新日志
-
-[新增置底&免认证 (2017-09-17)](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS/releases/tag/v1.3.0)
-
-[修复聊天记录消失的bug (2017-09-11)](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS/releases/tag/v1.2.0)
-
-[重构自动回复，实现多回复 (2017-08-23)](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS/releases/tag/v1.1.0)
-
-**详细内容请查看**[CHANGELOG](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS/blob/master/CHANGELOG.md)
+[添加全局毛玻璃效果&修改状态栏图标&去除“TK”]
 
 ---
 
@@ -31,7 +22,7 @@
 * 远程控制
 * 微信多开
 * 第二次登录免认证
-* 置底功能(~~类似置顶~~)
+
 
 远程控制：
 
@@ -93,7 +84,7 @@
 
 **3. 安装完成**
 
-* 登录微信，在**菜单栏**中看到**微信小助手**即安装成功。 
+* 登录微信，在**菜单栏**中看到**🌚**即安装成功。
 ![微信小助手.png](http://upload-images.jianshu.io/upload_images/965383-0f65bb05dabf961b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 --- 
@@ -135,7 +126,6 @@
 
 ---
 
-#### 听说你想请我喝shang午茶？😏
- 
-<img src="http://upload-images.jianshu.io/upload_images/965383-8e2af8fe607eee62.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1024" height="300" hspace="7" style="display: inline-block">
+---
+
 
